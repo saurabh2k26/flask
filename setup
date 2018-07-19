@@ -1,0 +1,13 @@
+To install virtualenv type in your terminal:
+
+
+$ pip install virtualenv
+
+Now, you can create a virtual environment with
+$ virtualenv myenvironment
+
+which will create the folder myenvironment. To activate this environment type:
+$ source myenvironemtn/bin/activate
+
+and to deactivate it, just type:
+$ deactivate
