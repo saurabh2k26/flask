@@ -7,7 +7,7 @@ Now, you can create a virtual environment with
 $ virtualenv myenvironment
 
 which will create the folder myenvironment. To activate this environment type:
-$ source myenvironemtn/bin/activate
+$ source myenvironment/bin/activate
 
 and to deactivate it, just type:
 $ deactivate
